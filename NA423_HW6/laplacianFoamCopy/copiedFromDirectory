@@ -1,0 +1,5 @@
+/opt/caen/openfoam-2106/OpenFOAM-v2106/applications/solvers/basic/laplacianFoam
+
+
+copy this directory, delete overLaplacianFoam
+in Make/files change the name to laplacianFoamCopy
